@@ -1,5 +1,5 @@
 ###
-# atividade 15
+# atividade 23
 # aluno: Apollo
 # Data: 08/04/2024
 ##Escreva um programa que, dada a idade de um atleta da categoria bocha rolada em cancha de terra, classifique-o em uma das seguintes categorias: Categoria Idade Infantil A 5 a 7, Infantil B 8 a 10, Juvenil A 11 a 13, uvenil B 14 a 17, Sênior Maiores de 18 anos.
